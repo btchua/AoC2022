@@ -1,0 +1,4 @@
+﻿  AoC2022_Day2.cpp
+c:\work\adventofcode2022\adventofcode2022\aoc2022_day2\aoc2022_day2.cpp(29): warning C4715: 'LoseMePlease': not all control paths return a value
+c:\work\adventofcode2022\adventofcode2022\aoc2022_day2\aoc2022_day2.cpp(45): warning C4715: 'WinMePlease': not all control paths return a value
+  AoC2022_Day2.vcxproj -> C:\Work\AdventOfCode2022\AdventOfCode2022\Debug\AoC2022_Day2.exe
